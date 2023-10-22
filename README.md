@@ -23,4 +23,4 @@ Este é um simples jogo da forca implementado em Python. O jogo lê palavras de 
 Para executar o jogo, simplesmente execute o código Python fornecido. Certifique-se de que o arquivo "palavras.txt" esteja presente no mesmo diretório.
 
 ## Créditos
-<ul><li>O jogo da forca foi implementado em Python por oyazigi.</li></ul>
+- O jogo da forca foi implementado em Python por oyazigi.
